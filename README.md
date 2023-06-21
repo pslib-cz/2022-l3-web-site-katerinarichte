@@ -3,18 +3,18 @@
 Práce se zabývá vytvořením webových stránek ...
 
 Nezapomenu upravit odkazy a "aktivovat" GitHub Pages... 
-[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/<SEM_VKLADAM_NAZEV_PROJEKTU>/)
+[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/2022-l3-web-site-katerinarichte/)
 
 [Návrh webové stránky ve Figmě] https://www.figma.com/file/PRK6YFdP2sSybkVduem4qR/Untitled?type=design&t=GXRiupEKV1Rsg2Ej-1
 
 ## ToDo
 - [x] Vytvořit repozitář projektu
-- [ ] Vytvořit Figma projekt
-- [ ] Aktivovat GitHub Pages
-- [ ] Upravit README.md (aktualizace odkazů na Figmu a Web)
-- [ ] Hamburger menu (s JS)
-- [ ] Implementována [LightGallery](https://github.com/sachinchoolur/lightGallery)
+- [x] Vytvořit Figma projekt
+- [x] Aktivovat GitHub Pages
+- [x] Upravit README.md (aktualizace odkazů na Figmu a Web)
+- [x] Hamburger menu (s JS)
+- [x] Implementována [LightGallery](https://github.com/sachinchoolur/lightGallery)
 - [ ] Implementován [Swiper](https://swiperjs.com/) nebo [Glide](https://glidejs.com/)
-- [ ] ...desatero
-- [ ] Zcela funkční při vw 360px
-- [ ] Zcela funkční při vw 2560px
+- [x] ...desatero
+- [x] Zcela funkční při vw 360px
+- [x] Zcela funkční při vw 2560px
